@@ -30,7 +30,7 @@ export function Testimonials() {
   };
 
   useEffect(() => {
-    const timer = setInterval(nextReview, 3000);
+    const timer = setInterval(nextReview, 2000);
     return () => clearInterval(timer);
   }, []);
 

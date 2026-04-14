@@ -127,7 +127,7 @@ export const FEATURES = [
     icon: "Heart"
   },
   {
-    title: "State-of-the-Art Tech",
+    title: "Advanced Dental Technology",
     description: "Modern instruments and latest diagnostic tools for efficient care.",
     icon: "Cpu"
   },
@@ -142,8 +142,8 @@ export const FEATURES = [
     icon: "BookOpen"
   },
   {
-    title: "Accessibility",
-    description: "Ambient parking space and convenient West Hill location in Kozhikode.",
+    title: "Seamless Accessibility",
+    description: "Ample private parking and a fully wheelchair-friendly facility for easy arrival.",
     icon: "MapPin"
   }
 ];

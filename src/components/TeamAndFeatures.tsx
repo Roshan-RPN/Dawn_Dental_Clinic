@@ -71,7 +71,7 @@ export function WhyChooseUs() {
               {FEATURES.map((feature, index) => {
                 const Icon = iconMap[feature.icon as keyof typeof iconMap] || Heart;
                 return (
-                  <div key={index} className="flex gap-6 items-start">
+                  <div key={index} className="flex gap-6 items-center">
                     <div className="flex-shrink-0 w-14 h-14 bg-brand-teal rounded-2xl flex items-center justify-center text-white shadow-lg shadow-brand-teal/20">
                       <Icon size={28} />
                     </div>
